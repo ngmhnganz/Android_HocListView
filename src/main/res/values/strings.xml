@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HocListView</string>
+    <string-array name="arrTinhThanh">
+        <item>Hà Nội</item>
+        <item>Hồ Chí Minh</item>
+        <item>Bắc Giang</item>
+        <item>Ninh Bình</item>
+        <item>Nghệ An</item>
+        <item>Đồng Nai</item>
+        <item>Thanh Hoá</item>
+        <item>Cần Thơ</item>
+        <item>Hải Phòng</item>
+        <item>Yên Bái</item>
+        <item>Bình Dương</item>
+        <item>Đà Nẵng</item>
+    </string-array>
+</resources>
